@@ -1,0 +1,10 @@
+{
+  "name": "ふせん日和｜勉強計画",
+  "short_name": "ふせん日和",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf8",
+  "theme_color": "#fffaf8",
+  "lang": "ja",
+  "icons": []
+}
